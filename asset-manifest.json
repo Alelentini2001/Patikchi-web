@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Patikchi-web/static/css/main.ad1dbbb2.css",
-    "main.js": "/Patikchi-web/static/js/main.acebc9f9.js",
+    "main.js": "/Patikchi-web/static/js/main.9befadb9.js",
     "static/js/453.ca0239cf.chunk.js": "/Patikchi-web/static/js/453.ca0239cf.chunk.js",
     "static/media/image1.png": "/Patikchi-web/static/media/image1.2c705d197499088b28e4.png",
     "static/media/classy-booties.png": "/Patikchi-web/static/media/classy-booties.3239821786da29500b8c.png",
@@ -11,11 +11,11 @@
     "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/Patikchi-web/static/media/PlayfairDisplay-Italic-VariableFont_wght.597cf3569777ae281144.ttf",
     "index.html": "/Patikchi-web/index.html",
     "main.ad1dbbb2.css.map": "/Patikchi-web/static/css/main.ad1dbbb2.css.map",
-    "main.acebc9f9.js.map": "/Patikchi-web/static/js/main.acebc9f9.js.map",
+    "main.9befadb9.js.map": "/Patikchi-web/static/js/main.9befadb9.js.map",
     "453.ca0239cf.chunk.js.map": "/Patikchi-web/static/js/453.ca0239cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad1dbbb2.css",
-    "static/js/main.acebc9f9.js"
+    "static/js/main.9befadb9.js"
   ]
 }
