@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Patikchi2/static/css/main.9367a5fe.css",
+    "main.js": "/Patikchi2/static/js/main.bf1d2c18.js",
+    "static/js/453.ca0239cf.chunk.js": "/Patikchi2/static/js/453.ca0239cf.chunk.js",
+    "static/media/image1.png": "/Patikchi2/static/media/image1.2c705d197499088b28e4.png",
+    "static/media/classy-booties.png": "/Patikchi2/static/media/classy-booties.3239821786da29500b8c.png",
+    "static/media/laced-booties.png": "/Patikchi2/static/media/laced-booties.dfe1904a5a456ef5bc61.png",
+    "static/media/velcro-booties.png": "/Patikchi2/static/media/velcro-booties.26b2190368a6e81644d5.png",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/Patikchi2/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/Patikchi2/static/media/PlayfairDisplay-Italic-VariableFont_wght.597cf3569777ae281144.ttf",
+    "index.html": "/Patikchi2/index.html",
+    "main.9367a5fe.css.map": "/Patikchi2/static/css/main.9367a5fe.css.map",
+    "main.bf1d2c18.js.map": "/Patikchi2/static/js/main.bf1d2c18.js.map",
+    "453.ca0239cf.chunk.js.map": "/Patikchi2/static/js/453.ca0239cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9367a5fe.css",
+    "static/js/main.bf1d2c18.js"
+  ]
+}
