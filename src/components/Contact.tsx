@@ -102,21 +102,21 @@ export default function Contact() {
               Get in Touch
             </Text>
 
-            <VStack align="stretch" spacing={6}>
-              <ContactInfo
-                icon={EmailIcon}
-                title="Email"
-                content="info@patikchi.com"
-              />
+            <VStack spacing={6} align="start">
               <ContactInfo
                 icon={PhoneIcon}
                 title="Phone"
-                content="+90 242 234 0661"
+                content="+90 542 234 0661"
               />
               <ContactInfo
                 icon={InfoIcon}
                 title="Address"
-                content="Zafer Mah. Mehmet Akif Cd. No:123 | Antalya, Turkey / German Ltd."
+                content="Zafer Mah. Mehmet Akif Cd. No:113 | Antalya, Turkey / Cemsan Ltd."
+              />
+              <ContactInfo
+                icon={EmailIcon}
+                title="Email"
+                content="info@patikchi.com"
               />
             </VStack>
 
@@ -124,7 +124,7 @@ export default function Contact() {
               <Text fontSize="xl" fontWeight="bold" color="#A67F56" mb={4}>
                 Wholesale Inquiries
               </Text>
-              <Text color="#A67F56" opacity={0.8}>
+              <Text color="#A67F56" fontWeight="medium">
                 As a manufacturer and wholesale exporter since 1995, we only
                 accept bulk orders and distribution partnership only. Contact us
                 for special pricing and custom inquiries.
